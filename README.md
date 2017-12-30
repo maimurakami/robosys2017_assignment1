@@ -3,7 +3,8 @@ RaspberryPi3での簡単なGPIO制御
 ## Demo
 [raspberrypiでLEDを光らせる](https://youtu.be/UoTKK444kJM)
 ## Requirements
-+ RaspberryPi3  
++ RaspberryPi3
+  + Raspbian
 + linux kernel sorce  
   + `/usr/src/linux`をダウンロード  
   + kernel build scripts:https://github.com/ryuichiueda/raspberry_pi_kernel_build_scripts  
