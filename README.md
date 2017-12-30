@@ -5,15 +5,13 @@ RaspberryPi3での簡単なGPIO制御
 # Requirement
 + RaspberryPi3  
 + linux kernel sorce  
-  + `/usr/src/linux`をダウンロード  
-  + kernel build scripts:https://github.com/ryuichiueda/raspberry_pi_kernel_build_scripts  
+ + `/usr/src/linux`をダウンロード  
+ + kernel build scripts:https://github.com/ryuichiueda/raspberry_pi_kernel_build_scripts  
 + LED  
 + 抵抗器(10Ω)  
-
 #Circuit
 photo  
 #Usage
-
 + LEDを光らせる  
 `echo 1 > /dev/myled0`
 + LEDを消す  
