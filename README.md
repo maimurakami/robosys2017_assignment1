@@ -2,7 +2,7 @@
 RaspberryPi3での簡単なGPIO制御
 ## Demo
 [raspberrypiでLEDを光らせる](https://youtu.be/UoTKK444kJM)
-  + SUSHIの表示も行っています
+  SUSHIの表示も行っています
 ## Requirements
 + RaspberryPi3
   + Raspbian
